@@ -1,8 +1,8 @@
 {
-  "name": "TestNFTs #1",
+  "name": "TestNFTs #2",
   "description": "Test NFT collection.",
   "image": "https://raw.githubusercontent.com/ericduffield/NFTMetadataTest/main/Images/1.png",
-  "edition": 1,
+  "edition": 2,
   "attributes": [
   ]
 }
