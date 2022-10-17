@@ -1,0 +1,8 @@
+{
+  "name": "TestNFTs #1",
+  "description": "Test nft collection.",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "edition": 1,
+  "attributes": [
+  ]
+}
